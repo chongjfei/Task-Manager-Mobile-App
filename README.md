@@ -75,7 +75,7 @@ you'll generate the platform folders (android/, ios/, etc.) yourself:
 
 ## Screenshots
 
-_Add screenshots here after running the app (task list, add/edit screen, dark mode)._
+<img width="472" height="873" alt="image" src="https://github.com/user-attachments/assets/fb049608-8a94-4ffb-9c91-a7e7864760cb" />
 
 ## Notes
 
